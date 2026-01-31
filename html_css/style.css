@@ -1,0 +1,16 @@
+h1,h2,h3{
+    color:#ff0000
+}
+
+p{
+    color: blueviolet;
+}
+
+button{
+    color: orangered;
+    background-color: rgb(2,13,5)
+}
+
+body{
+    background-color: #ffffff;
+}
